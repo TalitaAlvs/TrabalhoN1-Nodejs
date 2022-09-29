@@ -1,0 +1,12 @@
+{
+  "name": "formulario_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Talita Alves",
+  "license": "ISC"
+}
